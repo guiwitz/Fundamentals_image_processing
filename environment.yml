@@ -1,0 +1,15 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - scikit-image
+  - pandas
+  - jupyter_contrib_nbextensions
+  - seaborn
+  - ipyvolume
+  - pip
+  - pip:
+    - plotnine
+    - xlrd
