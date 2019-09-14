@@ -10,6 +10,7 @@ dependencies:
   - seaborn
   - ipyvolume
   - pip
+  - voila
   - pip:
     - plotnine
     - xlrd
