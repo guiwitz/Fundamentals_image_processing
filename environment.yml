@@ -3,15 +3,10 @@ channels:
 dependencies:
   - numpy
   - matplotlib
-  - scikit-learn
   - scikit-image
   - pandas
   - jupyter_contrib_nbextensions
-  - seaborn
   - ipyvolume
   - pip
   - voila
   - bqplot
-  - pip:
-    - plotnine
-    - xlrd
